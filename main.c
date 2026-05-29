@@ -65,3 +65,4 @@ int main()
         Delay(100);
     }
 }
+//sprawdzam czy dziala :)) 
